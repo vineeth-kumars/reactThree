@@ -1,0 +1,20 @@
+.TextFieldsStyle{
+    /* filter: "blur(1px)"; */
+     min-width:  250;
+     min-height: 300;
+     height: 300;
+     backdrop-filter: blur(8px);
+     justify-content: center;
+     display: flex;
+  flex-direction: column;
+  align-items: center;
+  ;
+     
+}
+.TextStyles{
+    font-size: calc(10px + 2vmin);
+    color: white; 
+}
+.textfield__label{
+    color: white !important;
+}
